@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="author">Author</string>
+    <string name="book_name">Book Name</string>
+    <string name="description">Description</string>
+    <string name="hint">Enter Book Name</string>
+    <string name="published_by">published by : </string>
+    <string name="publisher_date">publisher date :</string>
+</resources>
